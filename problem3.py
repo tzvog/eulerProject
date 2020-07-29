@@ -16,6 +16,7 @@ def findlargestprime():
         if current < sqruted:
             break
 
+    # checks if whats left is bigger than the current return value
     if current > retVal:
         retVal = int(current)
 
