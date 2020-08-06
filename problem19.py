@@ -1,7 +1,7 @@
 def sunday_counter():
 
     sundays_count = 0
-    days_count = 5
+    days_count = 2
 
     for i in range(1901, 2001):
 
